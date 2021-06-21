@@ -1,0 +1,1 @@
+myStr="Hello World"
