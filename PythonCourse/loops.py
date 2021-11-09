@@ -16,7 +16,7 @@ for foods in foods: # Recorrer lista con condiciones
     if foods=='apples':
         print('You have to buy this')
     else:
-        print(foods)    
+        print(foods, end=" ")    
 
 
 # Para romper el bucle poner break 
